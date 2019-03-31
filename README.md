@@ -14,7 +14,7 @@ pip install jupyterthemes
 pip install --upgrade jupyterthemes
 ```
 
-for more info refer the [docs]('https://github.com/dunovank/jupyter-themes')
+for more info refer the [docs](https://github.com/dunovank/jupyter-themes)
 
 ### Applying theme
 
@@ -22,7 +22,7 @@ for more info refer the [docs]('https://github.com/dunovank/jupyter-themes')
 jt -t onedork -altp -tfs 11 -nfs 115 -cellw 88% -T -N -cursc p -f firacode -dfs 10 -fs 14 -ofs 11
 ```
 
-refer [docs]('https://github.com/dunovank/jupyter-themes#command-line-usage) for understanding each flag
+refer [docs](https://github.com/dunovank/jupyter-themes#command-line-usage) for understanding each flag
 
 also `I have modified css for tooltip and completions in` [custom.css](custom.css) copy and paste at `~/.jupyter/custom/custom.css`
 
@@ -76,6 +76,4 @@ jupyter nbextension enable hinterland/hinterland
 
 and more extensions available to enhance your productivity look at the image below
 
-<div style="margin:0 15px">
-  <img src="extension-tab.png"/>
-</div>
+<img src="extension-tab.png"/>
