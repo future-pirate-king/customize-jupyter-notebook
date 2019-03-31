@@ -76,4 +76,4 @@ jupyter nbextension enable hinterland/hinterland
 
 and more extensions available to enhance your productivity look at the image below
 
-<img src="extension-tab.png"/>
+![extension-tab](extension-tab.PNG)
